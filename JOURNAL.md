@@ -13,3 +13,9 @@ Virtualy wired the pins from the microcontroller to the display and to usb signa
 also chose and wired the rotor switch for hour/minute/date nummber changing while the clock is on
 <img width="1355" height="744" alt="image" src="https://github.com/user-attachments/assets/96022dc8-8ed3-4cf2-926e-c627fcba9ce2" />
 **Total time spent: 5h**
+# 22/9/2025: started making the pcb layout
+as im new to this field it took some time to get hold of how it works
+also chose the final parts i will be using
+connected the usb-c and the main components to the board
+<img width="862" height="337" alt="image" src="https://github.com/user-attachments/assets/d3c7ea46-27f4-410b-903e-76b80e28d610" />
+**Total time spent: 7h**
