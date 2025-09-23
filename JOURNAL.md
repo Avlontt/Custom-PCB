@@ -19,3 +19,9 @@ also chose the final parts i will be using
 connected the usb-c and the main components to the board
 <img width="862" height="337" alt="image" src="https://github.com/user-attachments/assets/d3c7ea46-27f4-410b-903e-76b80e28d610" />
 **Total time spent: 7h**
+# 23/9/2025: almost finished the layout loaded the 3d model
+changing some minor details  and checking for any mistakes
+planing on making 2 versions for 12pin and 14 pin 0.56 displays
+<img width="1055" height="516" alt="image" src="https://github.com/user-attachments/assets/6f9f64ed-d056-4990-a797-f766dbe1b38f" />
+<img width="672" height="337" alt="image" src="https://github.com/user-attachments/assets/dd79c528-45ee-409b-b544-ae0f3a5102c3" />
+**Total time spent: 11h**
