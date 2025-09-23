@@ -9,6 +9,7 @@ Choose arduino nano chip for the size and numbber of io pins,
 7 segment 4 digit display yellow color,
 found and wired chips for battery protection and charging,
 usb type-c for its accessibility,
+will be using thermistor and arduino calculating capabilities to check the temparature of the room
 Virtualy wired the pins from the microcontroller to the display and to usb signal convertor,
 also chose and wired the rotor switch for hour/minute/date nummber changing while the clock is on
 <img width="1355" height="744" alt="image" src="https://github.com/user-attachments/assets/96022dc8-8ed3-4cf2-926e-c627fcba9ce2" />
