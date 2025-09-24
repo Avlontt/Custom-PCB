@@ -32,6 +32,4 @@ thinking in changing the usb-c port into an mid board one so it would take les v
 planing on ordering pcbs without dispalys and ordering displays from lcscparts to get different collors
 
 <img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/37c08d82-08aa-4cdf-ac4c-2fc919e6cf6e" />
-
-<img width="1204" height="768" alt="image" src="https://github.com/user-attachments/assets/3901efbd-d78e-40f6-8833-ab91f152a46b" />
 **Total time spent: 13h**
