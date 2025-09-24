@@ -1,4 +1,4 @@
----
+<img width="1329" height="746" alt="image" src="https://github.com/user-attachments/assets/94174fc0-637b-4010-b9b8-2f355ae4e3d2" />---
 Title: "Bedroom battery powered Clock "
 Author: "Avlont"
 Description: "Small arduino based clock on type-c for bedroom with battery support"
@@ -28,3 +28,10 @@ thinking in changing the usb-c port into an mid board one so it would take les v
 <img width="1055" height="516" alt="image" src="https://github.com/user-attachments/assets/6f9f64ed-d056-4990-a797-f766dbe1b38f" />
 <img width="672" height="337" alt="image" src="https://github.com/user-attachments/assets/dd79c528-45ee-409b-b544-ae0f3a5102c3" />
 **Total time spent: 11h**
+# 24/9/2025:completed the scheme and pcb 
+planing on ordering pcbs without dispalys and ordering displays from lcscparts to get different collors
+
+<img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/37c08d82-08aa-4cdf-ac4c-2fc919e6cf6e" />
+
+<img width="1204" height="768" alt="image" src="https://github.com/user-attachments/assets/3901efbd-d78e-40f6-8833-ab91f152a46b" />
+**Total time spent: 13h**
